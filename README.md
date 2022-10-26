@@ -1,4 +1,3 @@
-```
 ## Setup
 
 - Enter your email and password in the variables YOUR_EMAIL, PASSWORD.
